@@ -56,8 +56,3 @@ It might be useful to be able to specify which messages to fetch,
 instead of have it fetch everything every time.
 
 The exception handling is not a good example of how to do this properly.
-
-
-## Author Name
-
-[Shiv Thakur](https://github.com/ShivSt)
